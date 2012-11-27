@@ -14,3 +14,4 @@ spot-cocos2d
 ============
 
 spot-cocos2d
+tag: cocos2d + cocosbuilder 
